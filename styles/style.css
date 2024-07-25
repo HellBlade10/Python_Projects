@@ -1,0 +1,10 @@
+summary{
+color: green;
+cursor: hand;
+}
+details{
+color: red;
+display: flex;
+flex-direction: row;
+background: linear-gradient(to right, red,blue,rebeccablue,purple);
+}
